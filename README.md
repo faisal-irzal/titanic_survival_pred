@@ -12,4 +12,5 @@ The following steps are used:
   
 The best classifier are chosen based on the resulting performance analysis on step 3. This classifier are used to predict the survival from the test dataset.
 
-![Titanic_best_entry](https://user-images.githubusercontent.com/76395229/107623539-c650b800-6c59-11eb-995d-204771409537.png)
+![Titanic_1st_entry](https://user-images.githubusercontent.com/76395229/107624182-ca310a00-6c5a-11eb-9e63-d589c5dc681a.png)
+
