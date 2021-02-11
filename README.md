@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-This is part of the Kaggle Machine Learning competition where contestants are asked to predict the survival of the Titanic disaster using own choice of ML method(s). In this repository, I will explain how I succeeded to build predictive models which put me in the top 5% out of almost 20,000 contestants.
+This is part of the Kaggle Machine Learning competition where contestants are asked to predict the survival of the Titanic disaster using own choice of ML method(s). In this repository, I will explain how I succeeded to build predictive models which put me in the top 10% out of almost 20,000 contestants.
 
 The following steps are used:
 1. Data visualization & pre-processing
@@ -13,4 +13,6 @@ The following steps are used:
 The best classifier are chosen based on the resulting performance analysis on step 3. This classifier are used to predict the survival from the test dataset.
 
 ![Titanic_1st_entry](https://user-images.githubusercontent.com/76395229/107624182-ca310a00-6c5a-11eb-9e63-d589c5dc681a.png)
+
+Check the lite version of the report on below link.
 
