@@ -14,5 +14,6 @@ The best classifier are chosen based on the resulting performance analysis on st
 
 ![Titanic_1st_entry](https://user-images.githubusercontent.com/76395229/107624182-ca310a00-6c5a-11eb-9e63-d589c5dc681a.png)
 
-Check the lite version of the report on below link.
+Visit the following link to get a lite version of the report.
 
+<a href="https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/fcaac74d-db8f-4cdd-8da3-dd6a1d20633a/view?access_token=c88c1060804940433085dd3591019d33b0a39d58fbaa59d88c5fe2da6bb6de31">Titanic Survival Prediction Report</a>
